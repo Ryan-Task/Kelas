@@ -1,0 +1,1 @@
+Sejarah berdriinya smkn 2 buduran didirikan pada tahun 1945
