@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.kontainer {
+  text-align: center;
+  margin-top: 100px;
+  padding: 200px;
+  margin-top: 0;
+}
+.background {
+  background-image: url("/img/bg-masthead.jpg");
+  background-size: cover;
+  margin-top: 0;
+}
+a {
+  list-style: none;
+  color: white;
+  text-decoration: none;
+}
+.background h1 {
+  font-weight: 900;
+}
+.background P {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-style: italic;
+}
+.background button {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 0;
+  color: inherit;
+  color: aqua;
+  background-color: aqua;
+}
+.bawah {
+  margin-bottom: 200px;
+  margin: auto;
+  text-align: center;
+  margin: auto;
+  margin-top: 100px;
+  padding: 100px;
+  margin-top: 0;
+
+
+}
+.bawah button {
+  color: white;
+  background-color: black;
+  color: inherit;
+  border-radius: 5px;
+  padding: 10px;
+  border: 0;
+  margin-top: 20px;
+}
+.bawah p {
+  font-weight: lighter;
+  font-style: none;
+}
+.lingkaran {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ellips {
+  background-color: #ffffff;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.text-lingkaran {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.p {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
+
+.porto{
+    padding-bottom: 400px;
+}
+.gambar1,.gambar2{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 40%;
+}
